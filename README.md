@@ -15,6 +15,7 @@ domHandle.dfsWalk(HTMLElement)
 ```
 
 ### 1.2 dom广度遍历
+```
 /**
 * @description 返回一个从node开始的广度遍历dom数组
 * @param {HTMLElement} node 可选，默认值为document.body
